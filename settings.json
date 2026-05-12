@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "figielmc.aternos.me",
+    "ip": "figielmc.aternos.me:41313",
     "port": 41313,
     "version": "",
     "try-creative": false
